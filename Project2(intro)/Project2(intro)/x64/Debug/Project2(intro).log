@@ -1,0 +1,9 @@
+﻿  intro2.cpp
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(10,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(26,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(27,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(37,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(38,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(39,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\onssh\source\repos\Project2(intro)\Project2(intro)\intro2.cpp(42,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project2(intro).vcxproj -> C:\Users\onssh\source\repos\Project2(intro)\x64\Debug\Project2(intro).exe
