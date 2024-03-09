@@ -1,0 +1,3 @@
+﻿  .cpp
+C:\Users\onssh\source\repos\Project6(Цикли, Одновимірні масиви)\Project6(Цикли, Одновимірні масиви)\.cpp(185,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project6(Цикли, Одновимірні масиви).vcxproj -> C:\Users\onssh\source\repos\Project6(Цикли, Одновимірні масиви)\x64\Debug\Project6(Цикли, Одновимірні масиви).exe
