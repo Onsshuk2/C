@@ -1,0 +1,9 @@
+﻿  Функції.cpp
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(17,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(26,11): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(54,24): warning C4566: character represented by universal-character-name '\u2660' cannot be represented in the current code page (1252)
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(54,18): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(55,64): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(55,64): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\Project7(Функції)\Функції.cpp(55,64): warning C4309: 'initializing': truncation of constant value
+  Project7(Функції).vcxproj -> C:\Users\onssh\OneDrive\Робочий стіл\Project7(Функції)\x64\Debug\Project7(Функції).exe
