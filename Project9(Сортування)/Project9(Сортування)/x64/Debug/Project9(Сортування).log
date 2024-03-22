@@ -1,0 +1,3 @@
+﻿  Сортування.cpp
+C:\Users\onssh\source\repos\Project9(Сортування)\Project9(Сортування)\Сортування.cpp(45,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project9(Сортування).vcxproj -> C:\Users\onssh\source\repos\Project9(Сортування)\x64\Debug\Project9(Сортування).exe
