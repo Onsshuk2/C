@@ -1,0 +1,25 @@
+﻿  Силки.cpp
+C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(75,6): error C2086: 'int M': redefinition
+  C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(8,6):
+  see declaration of 'M'
+  
+C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(75,9): error C2086: 'int N': redefinition
+  C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(8,9):
+  see declaration of 'N'
+  
+C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(81,7): error C2374: 'A': redefinition; multiple initialization
+  C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(14,7):
+  see declaration of 'A'
+  
+C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(82,7): error C2374: 'B': redefinition; multiple initialization
+  C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(15,7):
+  see declaration of 'B'
+  
+C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(83,7): error C2374: 'C': redefinition; multiple initialization
+  C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(16,7):
+  see declaration of 'C'
+  
+C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(95,6): error C2374: 'newSize': redefinition; multiple initialization
+  C:\Users\onssh\source\repos\Project11(Силки)\Project11(Силки)\Силки.cpp(31,6):
+  see declaration of 'newSize'
+  
