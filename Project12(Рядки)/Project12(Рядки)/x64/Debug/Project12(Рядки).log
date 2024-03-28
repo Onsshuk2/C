@@ -1,0 +1,2 @@
+﻿  Рядки.cpp
+C:\Users\onssh\source\repos\Project12(Рядки)\Project12(Рядки)\Рядки.cpp(31,5): error C4996: '_strnset': This function or variable may be unsafe. Consider using _strnset_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
