@@ -1,0 +1,15 @@
+﻿  PrjgectFinalOfficePersons.cpp
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(51,34): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(51,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(52,35): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(52,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(52,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(53,36): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(53,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(53,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(54,33): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(54,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(54,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(55,31): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons\PrjgectFinalOfficePersons.cpp(55,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PrjgectFinalOfficePersons.vcxproj -> C:\Users\onssh\source\repos\PrjgectFinalOfficePersons\x64\Debug\PrjgectFinalOfficePersons.exe
