@@ -1,0 +1,9 @@
+﻿  Progect16(Файли).cpp
+C:\Users\onssh\source\repos\Progect16(Файли)\Progect16(Файли)\Progect16(Файли).cpp(17,11): error C2086: 'std::ofstream fout': redefinition
+  C:\Users\onssh\source\repos\Progect16(Файли)\Progect16(Файли)\Progect16(Файли).cpp(12,11):
+  see declaration of 'fout'
+  
+C:\Users\onssh\source\repos\Progect16(Файли)\Progect16(Файли)\Progect16(Файли).cpp(26,11): error C2086: 'std::ofstream fout': redefinition
+  C:\Users\onssh\source\repos\Progect16(Файли)\Progect16(Файли)\Progect16(Файли).cpp(12,11):
+  see declaration of 'fout'
+  
