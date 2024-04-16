@@ -1,0 +1,4 @@
+﻿  OOP3(const,friend ).cpp
+C:\Users\onssh\source\repos\OOP3(const,friend )\OOP3(const,friend )\OOP3(const,friend ).cpp(108,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\OOP3(const,friend )\OOP3(const,friend )\OOP3(const,friend ).cpp(110,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOP3(const,friend ).vcxproj -> C:\Users\onssh\source\repos\OOP3(const,friend )\x64\Debug\OOP3(const,friend ).exe
