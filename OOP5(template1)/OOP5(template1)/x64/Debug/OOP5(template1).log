@@ -1,0 +1,8 @@
+﻿  OOP5(template1).cpp
+C:\Users\onssh\source\repos\OOP5(template1)\OOP5(template1)\OOP5(template1).cpp(93,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\OOP5(template1)\OOP5(template1)\OOP5(template1).cpp(93,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\OOP5(template1)\OOP5(template1)\OOP5(template1).cpp(93,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\OOP5(template1)\OOP5(template1)\OOP5(template1).cpp(101,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\OOP5(template1)\OOP5(template1)\OOP5(template1).cpp(101,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\onssh\source\repos\OOP5(template1)\OOP5(template1)\OOP5(template1).cpp(101,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OOP5(template1).vcxproj -> C:\Users\onssh\source\repos\OOP5(template1)\x64\Debug\OOP5(template1).exe
