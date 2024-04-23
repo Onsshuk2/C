@@ -1,0 +1,7 @@
+﻿  OOP6(string).cpp
+C:\Users\onssh\source\repos\OOP6(string)\OOP6(string)\OOP6(string).cpp(37,16): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+C:\Users\onssh\source\repos\OOP6(string)\OOP6(string)\OOP6(string).cpp(37,16): warning C4267:         with
+C:\Users\onssh\source\repos\OOP6(string)\OOP6(string)\OOP6(string).cpp(37,16): warning C4267:         [
+C:\Users\onssh\source\repos\OOP6(string)\OOP6(string)\OOP6(string).cpp(37,16): warning C4267:             _Elem=char
+C:\Users\onssh\source\repos\OOP6(string)\OOP6(string)\OOP6(string).cpp(37,16): warning C4267:         ]
+  OOP6(string).vcxproj -> C:\Users\onssh\source\repos\OOP6(string)\x64\Debug\OOP6(string).exe
