@@ -1,0 +1,4 @@
+﻿  OOP7.2(стек,черга).cpp
+C:\Users\onssh\source\repos\OOP7.2(стек,черга)\OOP7.2(стек,черга)\OOP7.2(стек,черга).cpp(156,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\onssh\source\repos\OOP7.2(стек,черга)\OOP7.2(стек,черга)\OOP7.2(стек,черга).cpp(263,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOP7.2(стек,черга).vcxproj -> C:\Users\onssh\source\repos\OOP7.2(стек,черга)\x64\Debug\OOP7.2(стек,черга).exe
