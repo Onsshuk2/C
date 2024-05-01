@@ -1,0 +1,3 @@
+﻿  OOP9(Single_list).cpp
+C:\Users\onssh\source\repos\OOP9(Single_list)\OOP9(Single_list)\OOP9(Single_list).cpp(152,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OOP9(Single_list).vcxproj -> C:\Users\onssh\source\repos\OOP9(Single_list)\x64\Debug\OOP9(Single_list).exe
