@@ -1,0 +1,4 @@
+﻿  OOP11(Наслідування).cpp
+C:\Users\onssh\source\repos\OOP11(Наслідування)\OOP11(Наслідування)\OOP11(Наслідування).cpp(78,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onssh\source\repos\OOP11(Наслідування)\OOP11(Наслідування)\OOP11(Наслідування).cpp(97,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onssh\source\repos\OOP11(Наслідування)\OOP11(Наслідування)\OOP11(Наслідування).cpp(159,1): error C1075: '{': no matching token found
