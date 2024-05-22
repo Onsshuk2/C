@@ -1,0 +1,3 @@
+﻿  OOP14(простір імен).cpp
+C:\Users\onssh\source\repos\OOP14(простір імен)\OOP14(простір імен)\OOP14(простір імен).cpp(88,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  OOP14(простір імен).vcxproj -> C:\Users\onssh\source\repos\OOP14(простір імен)\x64\Debug\OOP14(простір імен).exe
